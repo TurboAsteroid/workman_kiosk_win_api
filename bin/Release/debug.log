@@ -1,0 +1,64 @@
+[1202/113749:INFO:(0)] WebCore is now online.
+[1202/113749:INFO:(0)] Running Awesomium 1.7.4.2
+[1205/151026:INFO:(0)] WebCore is now online.
+[1205/151026:INFO:(0)] Running Awesomium 1.7.4.2
+[1205/151034:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1205/151034:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1206/085831:INFO:(0)] WebCore is now online.
+[1206/085831:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/085838:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1206/085838:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1206/085933:INFO:(0)] WebCore is now online.
+[1206/085933:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090142:INFO:(0)] WebCore is now online.
+[1206/090142:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090233:INFO:(0)] WebCore is now online.
+[1206/090233:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090310:INFO:(0)] WebCore is now online.
+[1206/090310:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090317:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 10.1.100.33:8080 failed; NSS error code -12263, net_error -107
+[1206/090317:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 10.1.100.33:8080 failed; NSS error code -12263, net_error -107
+[1206/090327:INFO:(0)] WebCore is now online.
+[1206/090327:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090346:INFO:(0)] WebCore is now online.
+[1206/090346:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090353:INFO:(0)] WebCore is now online.
+[1206/090353:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090355:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 10.1.100.33:8080 failed; NSS error code -12263, net_error -107
+[1206/090355:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 10.1.100.33:8080 failed; NSS error code -12263, net_error -107
+[1206/090425:INFO:(0)] WebCore is now online.
+[1206/090425:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090432:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1206/090432:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1206/090600:INFO:(0)] WebCore is now online.
+[1206/090600:INFO:(0)] Running Awesomium 1.7.4.2
+[1206/090608:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1206/090608:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/091234:INFO:(0)] WebCore is now online.
+[1209/091234:INFO:(0)] Running Awesomium 1.7.4.2
+[1209/091241:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/091241:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/091401:INFO:(0)] WebCore is now online.
+[1209/091401:INFO:(0)] Running Awesomium 1.7.4.2
+[1209/091408:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/091408:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/094656:INFO:(0)] WebCore is now online.
+[1209/094656:INFO:(0)] Running Awesomium 1.7.4.2
+[1209/094703:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/094703:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/100816:INFO:(0)] WebCore is now online.
+[1209/100816:INFO:(0)] Running Awesomium 1.7.4.2
+[1209/100823:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/100823:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/102727:INFO:(0)] WebCore is now online.
+[1209/102727:INFO:(0)] Running Awesomium 1.7.4.2
+[1209/102730:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/102730:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/104849:INFO:(0)] WebCore is now online.
+[1209/104849:INFO:(0)] Running Awesomium 1.7.4.2
+[1209/104856:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/104856:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/145935:INFO:(0)] WebCore is now online.
+[1209/145935:INFO:(0)] Running Awesomium 1.7.4.2
+[1209/145942:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
+[1209/145942:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server fonts.googleapis.com:443 failed; NSS error code -5938, net_error -107
